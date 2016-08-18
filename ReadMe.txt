@@ -15,3 +15,6 @@ C++ - pocketsphinx - https://github.com/cmusphinx/pocketsphinx
 
 HTTP Client
 C++ - poco - https://github.com/pocoproject/poco
+
+Sentiment Analysis
+Stanford NLP - http://nlp.stanford.edu/sentiment/
